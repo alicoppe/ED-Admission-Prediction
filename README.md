@@ -47,7 +47,7 @@ Given the imbalanced nature of the dataset (fewer admissions than non-admissions
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.10.10
 - Jupyter Notebook
 - NumPy
 - Pandas
